@@ -1,4 +1,4 @@
-package trabalhoPOO;
+package quest1_livro;
 
 	import java.util.Scanner;
 
