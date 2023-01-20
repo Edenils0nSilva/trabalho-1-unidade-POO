@@ -1,8 +1,5 @@
-package br.uern.di.poo.primeiraunidade;
+package uernbet;
 
-import br.uern.di.poo.primeiraunidade.uernbets.APOSTA;
-import br.uern.di.poo.primeiraunidade.uernbets.evento;
-import br.uern.di.poo.primeiraunidade.uernbets.resultado;
 
 public class UERNBets {
 	

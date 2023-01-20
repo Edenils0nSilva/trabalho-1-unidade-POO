@@ -1,4 +1,4 @@
-package br.uern.di.poo.primeiraunidade.uernbets;
+package uernbet;
 
 public class APOSTA {
 	

@@ -1,4 +1,4 @@
-package quest1_livro;
+package quest1_A;
 
 	import java.util.Scanner;
 
