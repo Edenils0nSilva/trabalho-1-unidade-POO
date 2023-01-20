@@ -8,14 +8,15 @@ public static void main(String[] args) {
 		Porta servisso3 = new Porta(Portas.LUXO, 0.7,3.0, false);
 		Porta servisso4 = new Porta(Portas.PADRAO, 0.5, 1.89, true);
 		
-		servisso1.exibePorta();
-		Servico.calculaServico(servisso1);
+		servisso2.exibePorta();
+		servisso4.exibePorta();
+		/*Servico.calculaServico(servisso1);
 		servisso2.exibePorta();
 		Servico.calculaServico(servisso2);
 		servisso3.exibePorta();
 		Servico.calculaServico(servisso3);
 		servisso4.exibePorta();
-		Servico.calculaServico(servisso4);
+		Servico.calculaServico(servisso4);*/
 		
 	}
 

@@ -26,6 +26,7 @@ public class Porta {
 		this.largura = largura;
 		this.altura = altura;
 		this.pivotan = pivotan;
+		System.out.println("A largura é "+largura);
 	}
 	
 	//FUNÇÕES 
