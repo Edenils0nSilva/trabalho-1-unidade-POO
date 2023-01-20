@@ -1,7 +1,6 @@
 package uernbet;
 
 public class APOSTA {
-	
 	private evento etapa1;
 	private resultado resultado;
 	private double val_APOSTA;
