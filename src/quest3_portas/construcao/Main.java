@@ -10,13 +10,13 @@ public static void main(String[] args) {
 		
 		servisso2.exibePorta();
 		servisso4.exibePorta();
-		/*Servico.calculaServico(servisso1);
+		Servico.calculaServico(servisso1);
 		servisso2.exibePorta();
 		Servico.calculaServico(servisso2);
 		servisso3.exibePorta();
 		Servico.calculaServico(servisso3);
 		servisso4.exibePorta();
-		Servico.calculaServico(servisso4);*/
+		Servico.calculaServico(servisso4);
 		
 	}
 
